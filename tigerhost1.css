@@ -72,7 +72,9 @@ label.tc.border.btn.label-info.fl {
     color: #dee9f100!important;
     border: 0px;
 }
-
+.pmsgc {
+    background-color: #bd010133 !important;
+}
 .label.tc.border.pmsg.btn.label-info.fl,label.tc.border.redit.btn.label-info.fl {
     color: #000!important
 }
